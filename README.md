@@ -1,3 +1,4 @@
 # psbharselanaya
-This is our school repository
+This is our school repository.
+<br>
 Author -Digvijay singh Thakur
